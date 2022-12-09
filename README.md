@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m a cloud architect looking new projects ...
+### I’m a cloud architect looking for new Enterprise Architecture projects. Experienced in hybrid cloud, cloudnative and migration.
 <!--
 **Kafarver/kafarver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
